@@ -1,11 +1,7 @@
-# coffeedefi14
+# Here, there, everywhere
 
-**Builder. Learner. Overthinker.**  
-Chasing clarity, depth, and that elusive "excellence."  
-
-🌍 Here, there, everywhere  
-💡 Systematic approach to messy problems  
-⚡ Forever experimenting, sometimes breaking things  
+⚡ Breaking stuff, learning more.  
+💡 Experiments, projects, and curiosities from the trenches. 
 
 ---
 
