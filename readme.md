@@ -6,10 +6,11 @@
 ---
 
 ### Featured Projects
-- [Project One]([https://github.com/](https://github.com/coffeedefi14/ai-analyst)) – Short, punchy description  
-- [Project Two](https://github.com/dhruvarora/project-two) – What it does in one line  
+- [AI-Analyst](https://github.com/coffeedefi14/ai-analyst): Reimagining Data Science in the AI-first world
+- [Wishh](https://github.com/coffeedefi14/wishh): Personal project / app that scratches a creative itch  
+- [YourMakeupBar](https://github.com/coffeedefi14/your-makeup-bar)): AI-embedded Beauty-tech 
 
 ---
 
 ### Stats
-![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvarora&show_icons=true&hide=prs,issues)
+![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=coffeedefi14&show_icons=true&hide=prs,issues)
