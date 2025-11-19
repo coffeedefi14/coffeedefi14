@@ -2,6 +2,7 @@
 
 ⚡ Breaking stuff, learning more.  
 💡 Experiments, projects, and curiosities from the trenches. 
+🔄 Forever experimenting, sometimes breaking things  
 
 ---
 
@@ -12,6 +13,11 @@
 
 ---
 
-### Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=coffeedefi14&show_icons=true&hide=prs,issues)
-![Top Repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+### Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coffeedefi14&layout=compact&hide=html,css" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=coffeedefi14&show_icons=true&count_private=true" alt="GitHub Stats" />
+</p>
