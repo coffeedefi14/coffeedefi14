@@ -2,7 +2,7 @@
 
 ⚡ Breaking stuff, learning more.  
 💡 Experiments, projects, and curiosities from the trenches.
-🔄 Forever experimenting, sometimes breaking things.
+
 
 ---
 
@@ -14,7 +14,7 @@
 ---
 
 ### Stats & Activity
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coffeedefi14&layout=compact&hide=html,css" alt="Top Languages" />
 </p>
 
