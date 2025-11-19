@@ -12,10 +12,4 @@
 - [YourMakeupBar](https://github.com/coffeedefi14/your-makeup-bar): AI-embedded Beauty-tech 
 
 ---
-### Contributions
-<p align="left">
-  ![GitHub Contribution Grid](https://github.com/coffeedefi14.png?tab=activity)  
-</p>
 
-
----
