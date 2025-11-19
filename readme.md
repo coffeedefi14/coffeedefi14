@@ -12,12 +12,10 @@
 - [YourMakeupBar](https://github.com/coffeedefi14/your-makeup-bar): AI-embedded Beauty-tech 
 
 ---
-
-### Stats & Activity
+### Contributions
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coffeedefi14&layout=compact&hide=html,css" alt="Top Languages" />
+  ![GitHub Contribution Grid](https://github.com/coffeedefi14.png?tab=activity)  
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=coffeedefi14&show_icons=true&count_private=true" alt="GitHub Stats" />
-</p>
+
+---
