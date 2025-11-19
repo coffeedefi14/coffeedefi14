@@ -1,8 +1,8 @@
 # Here, there, everywhere
 
 ⚡ Breaking stuff, learning more.  
-💡 Experiments, projects, and curiosities from the trenches. 
-🔄 Forever experimenting, sometimes breaking things  
+💡 Experiments, projects, and curiosities from the trenches.
+🔄 Forever experimenting, sometimes breaking things.
 
 ---
 
